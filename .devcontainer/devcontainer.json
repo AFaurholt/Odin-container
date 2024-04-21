@@ -1,0 +1,11 @@
+{
+  "name": "Fedora Odin",  
+  "image": "fedoraodin:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "DanielGavin.ols"
+      ]
+    }
+  }
+}
